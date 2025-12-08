@@ -1,0 +1,1181 @@
+@media screen and (max-width: 1300px) {
+.block-promodetalle .row .item_info {
+    padding: 35px;
+}
+
+.block-promodetalle .detalle {
+    padding: 15px 0;
+}
+
+h2.titulo .subtitulo {
+    margin-bottom: 10px;
+}
+section#inicio_habitaciones .container {
+    padding: 0 30px;
+}
+}
+
+@media screen and (max-width: 1200px) {
+
+#block-nice-menus-1 ul#nice-menu-1 li {
+    margin-left: 16px;
+}
+
+h2.titulo {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.block-promodetalle .detalle ul {
+    padding-left: 20px;
+}
+
+.block-promodetalle .detalle {
+    font-size: 19px;
+}
+
+.block-promodetalle .detalle ul li {
+    margin: 8px 0;
+}
+
+.block-promodetalle .precio .preciodet {
+    font-size: 64px;
+}
+
+.block-promodetalle .precio .preciodet .decimal {
+    font-size: 44px;
+}
+
+#region-content .block#promocena2 {
+    padding-top: 80px;
+}
+
+#region-content .block#promocena2 .container {
+    padding: 50px 0;
+}
+
+#promocena2.block-promodetalle .detalle {
+    margin-top: 25px;
+}
+
+.block-conoce .item_info {
+    font-size: 44px;
+}
+.footer-widgets .f0 {
+    max-width: 200px;
+}
+
+.footer-widgets .f2 {
+    min-width: 150px;
+}
+
+.redesfoo .it {
+    margin-right: 20px;
+}
+.hero-inicio .pretitle {
+    font-size: 16px;
+}
+
+.hero-inicio .inn2 {
+    font-size: 54px;
+}
+
+.block-iniciodet .item_info {
+    padding-right: 30px;
+}
+.block-ambientes .row .item_info {
+    padding: 20px;
+}
+
+.block-carta .row .item .detalles {
+    padding: 45px;
+}
+section#inicio_habitaciones .container {
+    padding: 0 20px;
+}
+}
+
+@media screen and (max-width: 1000px) {
+#block-nice-menus-1 ul#nice-menu-1 li a {
+    font-size: 14px;
+    text-align: center;
+    line-height: 15px;
+}
+
+#block-nice-menus-1 ul#nice-menu-1 li {
+    margin-left: 6px;
+}
+
+#block-nice-menus-1 {
+    width: 613px;
+    margin-top: 66px;
+}
+
+.headsup #block-block-logo {
+    width: 130px;
+}
+
+#page {
+    padding-top: 130px;
+}
+
+.single-slide .t1 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.single-slide .t2 {
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+
+.single-slide .t3 {
+    font-size: 17px;
+}
+
+.hero .inn2 {
+    margin-right: 4%;
+}
+
+h2.titulo .subtitulo {
+    font-size: 17px;
+}
+
+h2.titulo {
+    font-size: 40px;
+}
+
+.block-promodetalle .detalle {
+    font-size: 17px;
+}
+
+.block-promodetalle .row .item_info {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.block-promodetalle .row .item_galeria {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.precio_ant {
+    font-size: 20px;
+}
+
+.precio_ant .etiqueta_ant {
+    font-size: 15px;
+}
+
+.precio_ant .preciodet span.decimal, .precio_ant .preciodet span.simbolo {
+    font-size: 16px;
+}
+
+.block-promodetalle .precio .preciodet {
+    font-size: 58px;
+}
+
+.block-promodetalle .precio .preciodet .simbolo {
+    font-size: 22px;
+}
+
+.block-promodetalle .precio .preciodet .decimal {
+    font-size: 39px;
+}
+
+#region-content .block#promocena2 {
+    padding-top: 60px;
+}
+
+#region-content .block#promocena2 .container {
+    padding: 30px 0;
+}
+
+#promocena2.block-promodetalle .detalle {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.swiper-clientes .swiper-slide .detalle .tit {
+    font-size: 18px;
+}
+
+.swiper-clientes .swiper-slide .detalle .estrellas {
+    margin-bottom: 35px;
+}
+
+.swiper-clientes .swiper-slide .detalle .det {
+    margin-bottom: 40px;
+}
+
+.swiper-clientes .swiper-slide {
+    width: 300px;
+}
+
+.swiper-clientes .swiper-slide .detalle {
+    padding: 40px 30px;
+}
+
+.block-conoce .item_info {
+    font-size: 36px;
+}
+
+.boton a,
+.block-clientes .item_titulo .texto{
+    font-size: 18px;
+}
+
+footer {
+    font-size: 16px;
+}
+
+.redesfoo .it {
+    margin-right: 10px;
+}
+form#form-reserva {
+    padding: 10px 15px;
+    transform: translate(-50%,74%);
+}
+
+.form-block .form-actions a,
+.form-block .form-actions .form-submit{
+    font-size: 14px;
+}
+
+.form-block .form-actions a img {
+    width: 18px;
+}
+
+.block-iniciodet .item_galeria .swiper-slide img {
+    max-height: 450px;
+}
+
+section#inicio1 {
+    padding-bottom: 30px;
+}
+
+.hero-inicio .pretitle {
+    font-size: 14px;
+}
+
+.hero-inicio .inn2 {
+    font-size: 50px;
+}
+
+.block-iniciodet .item_info .inn {
+    padding: 0;
+}
+.block-lista-habitaciones .item .galeria {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.block-lista-habitaciones .item .det {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.block-lista-habitaciones .item {
+    flex-wrap: wrap;
+}
+
+.item_titulo.pagetitle {
+    margin-left: 87px;
+}
+.hero .estiloserv .inn2 {
+    margin-right: 5%;
+    max-width: 330px;
+}
+
+.block-ambientes .row .item_info .inn {
+    padding: 0;
+}
+
+.block-carta .row .item .detalles h2.titulo {
+    font-size: 32px;
+}
+
+.block-carta .row .item .detalles {
+    font-size: 17px;
+}
+
+.block-carta .row .item .detalles .linea span {
+    width: 150px;
+}
+.bloque_platos .tab button {
+    font-size: 15px;
+}
+
+.bloque_platos .tab button .imagencarta img {
+    max-width: 27px;
+}
+#arequipainf.block-iniciodet .item_info {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+}
+
+@media screen and (max-width: 800px) {
+#block-nice-menus-1 {
+    display: none;
+}
+
+#block-nice-menus-2 {
+    display: block;
+}
+
+.headsup #block-block-logo {
+    width: 120px;
+    margin: 0 auto;
+    float: none;
+}
+
+div#page {
+    padding-top: 120px;
+}
+
+.sticky0 .headsup #block-block-logo {
+    width: 80px;
+}
+
+.sticky0 #block-nice-menus-2 {
+    top: 8px;
+}
+
+.single-slide .t1 {
+    font-size: 17px;
+}
+
+.single-slide .t2 {
+    font-size: 38px;
+    line-height: 100%;
+}
+
+.single-slide .t3 {
+    font-size: 14px;
+}
+
+.hero .inn2 {
+    margin-right: 0;
+}
+
+.block-promodetalle .row {
+    display: block;
+}
+
+.block-promodetalle .row .item_info {
+    flex: none;
+    max-width: 85%;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.block-promodetalle .row .item_galeria {
+    flex: none;
+    max-width: 100%;
+    width: 100%;
+}
+
+.block-promodetalle .detalle ul {
+    text-align: left;
+    margin: 0 auto;
+    width: auto;
+    display: inline-block;
+}
+
+.precio_ant {
+    justify-content: center;
+}
+
+#region-content .block#promocena2 .container:after {
+    left: 50px;
+}
+
+.block-promodetalle .linea span {
+    margin: 0 auto;
+}
+
+.block-conoce .item_info {
+    font-size: 30px;
+}
+
+.boton a, .block-clientes .item_titulo .texto {
+    font-size: 16px;
+}
+
+footer {
+    font-size: 15px;
+}
+
+.footer-widgets .f1 {
+    min-width: 300px;
+}
+
+.redesfoo .it {
+    margin-right: 5px;
+}
+
+.footer-widgets .f2 {
+    min-width: 134px;
+}#block-block-idiomas .content {
+    position: absolute;
+    right: 0;
+    bottom: -40px;
+    width: 135px;
+}
+
+#block-block-idiomas ul {
+    margin: 0;
+}
+
+#block-block-idiomas .logotravellers img {
+    height: 45px;
+}
+
+#block-block-idiomas ul li a {
+    font-size: 12px;
+}
+
+.sticky0 #block-block-idiomas .content {
+    bottom: -30px;
+}
+
+form#form-reserva {
+    transform: none;
+    position: relative;
+    left: auto;
+    top: auto;
+    bottom: auto;
+    display: block;
+    float: left;
+    width: 100%;
+    border-radius: 0;
+}
+
+.form-block label {
+    font-size: 13px;
+}
+.formulario .form-item label {
+    font-size: 14px;
+}
+.hero-inicio .inn2 {
+    font-size: 42px;
+}
+
+.hero-inicio .pretitle {
+    font-size: 12px;
+}
+
+section#inicio1 {
+    padding: 40px 0 25px;
+}
+
+.block-iniciodet .item_galeria {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.block-iniciodet .item_info {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 0 25px 20px;
+}
+
+.block-iniciodet .row {
+    flex-wrap: wrap;
+}
+
+.block-iniciodet .item_info .detalle {
+    margin: 0 auto;
+}
+
+h2.titulo {
+    font-size: 35px;
+}
+
+h2.titulo .subtitulo {
+    font-size: 15px;
+}
+
+.block-iniciodet .item_galeria .swiper-slide img {
+    height: 400px;
+}
+
+#inicio2 .row {
+    flex-direction: column-reverse;
+    display: flex;
+}
+
+#region-content .block-info {
+    padding: 30px 0 40px;
+}
+.block-lista-promociones .row .item .etiqueta {
+    font-size: 16px;
+    padding: 10px;
+    min-width: 125px;
+}
+
+.block-lista-promociones .row .item .det {
+    padding: 25px;
+}
+
+.block-lista-promociones .row .item .det .title {
+    font-size: 18px;
+}
+.block-ambientes .row {
+    flex-wrap: wrap;
+}
+
+.block-ambientes .row .item_info {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.block-ambientes .row .item_galeria {
+    flex: 0 0 100%;
+    max-width: 100%;
+    justify-content: space-around;
+}
+
+.block-ambientes .row .item_galeria .it {
+    margin: 1%;
+}
+
+section#ambientes {
+    padding: 30px 0;
+}
+
+.hero .estiloserv .swiper-slide2 > img {
+    width: 1000px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.block-carta .row .item .detalles {
+    padding: 25px;
+    font-size: 15px;
+}
+
+.block-carta .row .item .detalles h2.titulo {
+    font-size: 25px;
+    margin: 15px 0 10px;
+}
+.pagetitle h2.titulo .subtitulo {
+    font-size: 21px;
+}
+.bloque_platos .tab {
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0;
+    justify-content: center;
+}
+
+.bloque_platos .tab button {
+    margin: 5px 0;
+}
+
+span.titulocategoriacarta {
+    font-size: 18px;
+}
+
+.bloque_platos .detallecarta >div {
+    flex: 0 0 48%;
+}
+#arequipainf .linea span {
+    margin: 0 auto;
+}
+
+#arequipainf.block-iniciodet .item_info .detalle {
+    max-width: 500px;
+}
+
+#arequipa2.block-habitaciones .row .item {
+    flex: 0 0 48%;
+    max-width: 48%;
+}
+}
+
+@media screen and (max-width: 650px) {
+.headsup #block-block-logo {
+    width: 110px;
+}
+
+div#page {
+    padding-top: 110px;
+}
+
+.block-clientes .item_titulo .texto .texto2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.block-clientes .item_titulo .texto {
+    margin-bottom: 15px;
+}
+
+.block-clientes .item_titulo .imagen {
+    margin-right: 15px;
+}
+
+.swiper-clientes .swiper-slide {
+    width: 270px;
+}
+
+.swiper-clientes .swiper-slide .detalle {
+    padding: 30px 25px;
+}
+
+.swiper-clientes .swiper-slide .detalle .tit {
+    font-size: 16px;
+}
+
+.swiper-clientes .swiper-slide .detalle .estrellas {
+    margin-bottom: 25px;
+}
+
+.swiper-clientes .swiper-slide .detalle .det {
+    margin-bottom: 25px;
+}
+
+.swiper-clientes .swiper-slide .detalle .fecha {
+    font-size: 13px;
+}
+
+.block-conoce .item_info {
+    font-size: 24px;
+}
+
+.block-conoce .item_info .boton {
+    margin-top: 5px;
+}
+
+.footer-widgets .row2 {
+    flex-wrap: wrap;
+}
+
+.footer-widgets .f0 {
+    max-width: none;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-widgets .f0 .logo {
+    margin: 0 auto;
+    max-width: 160px;
+}
+
+.footer-widgets .f1 {
+    padding-left: 0;
+    max-width: 60%;
+}
+.block-conoce .item_imagen img {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 150%;
+}
+
+section.hero .swiper-slide2 > img {
+    width: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+}
+
+section.hero .swiper-slide2 {
+    position: relative;
+    overflow: hidden;
+}
+
+.hero .inn2 {
+    max-width: 250px;
+}
+#block-nice-menus-2 ul#nice-menu-2 {
+    margin-top: 28px;
+}
+.block-promodetalle .row .item_info {
+    max-width: none;
+}
+.hero-inicio .inn2 {
+    max-width: none;
+    font-size: 38px;
+}
+
+.hero-inicio .swiper-slide img {
+    width: 850px;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+.hero-inicio .pretitle {
+    letter-spacing: 5px;
+}
+
+.form-block .form-item,.form-block .form-actions {
+    flex: 0 0 48%;
+    max-width: 48%;
+    padding: 5px 5px;
+}
+.formulario .form-item,.formulario .form-actions {
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 0;
+}
+
+.formulario .form-item.webform-info {
+    font-size: 15px;
+}
+.form-block >div {
+    flex-wrap: wrap;
+}
+
+.form-block .form-actions a,
+.form-block .form-actions .form-submit{
+    text-align: center;
+}
+
+.block-iniciodet .item_galeria .swiper-slide img {
+    height: 350px;
+}
+
+.item_titulo .texto {
+    font-size: 17px;
+}
+
+.item_titulo {
+    margin-bottom: 30px;
+}
+
+section#inicio_habitaciones {
+    padding: 30px 0;
+}
+
+.block-habitaciones .row .item .det .title {
+    font-size: 16px;
+}
+
+#region-content .block-clientes .container {
+    padding: 40px 15px;
+}
+
+h2.titulo {
+    font-size: 32px;
+}
+
+h2.titulo .subtitulo {
+    font-size: 14px;
+}
+
+body {
+    font-size: 14px;
+}
+
+.block-promodetalle .detalle {
+    font-size: 16px;
+}
+
+.block-conoce .item_info .tit1 {
+    font-size: 19px;
+    margin-bottom: 4px;
+}
+
+.block-conoce .item_info {
+    font-size: 22px;
+}
+.item_titulo.pagetitle {
+    margin-left: 50px;
+}
+
+section#lista_habitaciones, #lista_promociones {
+    padding: 40px 0;
+}
+
+.page-habitaciones #section-content, .page-promociones #section-content {
+    background-size: 500px auto;
+    background-position: 64% -76px;
+}
+
+.block-lista-habitaciones .item .det .infoprecio .reserva .reservainf {
+    margin: 5px 5px 5px 0;
+}
+section#carta .inn {
+    padding: 0;
+}
+
+.block-carta .row .item .detalles h2.titulo {
+    font-size: 20px;
+}
+
+.block-carta .row .item .detalles {
+    font-size: 13px;
+}
+
+.block-carta .row .item .detalles .boton {
+    margin-top: 14px;
+}
+.pagetitle h2.titulo .subtitulo {
+    font-size: 18px;
+}
+}
+
+@media screen and (max-width: 500px) {
+section.hero .swiper-slide2 > img {
+    width: 250%;
+}
+
+.single-slide .t1 {
+    font-size: 14px;
+    text-align: center;
+}
+
+.single-slide .t2 {
+    font-size: 30px;
+    margin: 5px 0 10px;
+}
+
+.single-slide .t3 {
+    font-size: 12px;
+}
+
+.hero .inn2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hero .linea span {
+    margin: 0 auto;
+}
+
+h2.titulo .subtitulo {
+    font-size: 13px;
+    letter-spacing: 8px;
+}
+
+h2.titulo {
+    font-size: 30px;
+}
+.block-promodetalle .row .item_info {
+    padding: 30px 20px;
+}
+
+.block-promodetalle .precio .preciodet {
+    font-size: 45px;
+}
+
+.block-promodetalle .precio .preciodet .decimal {
+    font-size: 30px;
+}
+
+.block-promodetalle .precio .preciodet .simbolo {
+    font-size: 18px;
+}
+
+.precio_ant {
+    font-size: 18px;
+}
+
+.block-promodetalle .precio .preciodet1 {
+    font-size: 12px;
+}
+
+.spriteiconright,.spriteiconleft {
+    transform: scale(0.7);
+}
+
+#region-content .block#promocena2 {
+    padding-top: 30px;
+}
+
+#region-content .block#promocena2 .container:after {
+    left: 20px;
+}
+
+body {
+    font-size: 14px;
+}
+
+#promocena2.block-promodetalle .detalle {
+    font-size: 15px;
+}
+
+#region-content .block-clientes .container {
+    padding: 40px 15px;
+}
+
+.block-clientes .item_titulo .imagen img {
+    width: 70px;
+    height: auto;
+}
+
+.block-clientes .item_titulo .texto {
+    font-size: 14px;
+    max-width: 72%;
+}
+
+.block-clientes .item_titulo .texto .texto1 {
+    letter-spacing: 8px;
+    margin-top: 20px;
+}
+
+.linea.linea_marron span {
+    width: 180px;
+}
+
+.swiper-clientes .swiper-slide .detalle .tit {
+    font-size: 15px;
+}
+
+.swiper-clientes .swiper-slide .detalle .det {
+    font-size: 13px;
+}
+
+.swiper-clientes .swiper-slide .detalle {
+    padding: 25px 20px;
+}
+
+.swiper-clientes .swiper-slide {
+    width: 225px;
+}
+
+.block-conoce .item_imagen img {
+    width: 250%;
+}
+
+.block-conoce .item_info {
+    font-size: 22px;
+}
+
+.footer-widgets .f0 .logo {
+    width: 140px;
+}
+
+footer {
+    font-size: 14px;
+}
+
+.footer-widgets .row2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-widgets .f1 {
+    margin-bottom: 20px;
+}
+
+.footer-widgets .foo_info table {
+    text-align: left;
+}
+.hero-inicio .swiper-slide img {
+    width: 920px;
+}
+
+.hero-inicio .pretitle {
+    letter-spacing: 4px;
+}
+
+.hero-inicio .inn2 {
+    font-size: 27px;
+}
+
+.hero .arr-right {
+    right: 10px;
+}
+
+.hero .arr-left {
+    left: 10px;
+}
+
+form#form-reserva {
+    padding: 10px 5px;
+}
+
+.form-block label {
+    font-size: 12px;
+    padding-bottom: 4px;
+}
+.formulario .form-item label {
+    font-size: 13px;
+    padding-bottom: 0px;
+    padding-left: 0;
+    flex: 0 0 35%;
+    max-width: 35%;
+}
+.form-block .form-item input, .form-block .form-item select,
+.form-block .form-item textarea{
+    font-size: 13px;
+}
+.formulario .form-item input, .formulario .form-item select, .formulario .form-item textarea {
+    flex: 0 0 65%;
+    max-width: 65%;
+}
+
+.form-block .form-actions a,
+.form-block .form-actions .form-submit{
+    font-size: 13px;
+    padding: 8px;
+}
+
+.form-block .form-actions a img {
+    width: 15px;
+}
+
+.block-iniciodet .item_galeria .swiper-slide img {
+    height: 280px;
+}
+
+.item_titulo .texto .texto1 {
+    margin-top: 20px;
+}
+
+.item_titulo .texto {
+    font-size: 15px;
+}
+.block-habitaciones .row .item .det {
+    padding: 15px;
+}
+
+.block-habitaciones .row .item .det .title {
+    font-size: 14px;
+}
+
+.block-habitaciones .row .item .det .info {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.block-habitaciones .row .item .det a.boton, .block-lista-promociones .row .item .det a.boton {
+    font-size: 13px;
+}
+
+section#inicio_habitaciones {
+    padding: 25px 0;
+}
+
+.block-clientes .arrcli-left, .block-clientes .arrcli-right {
+    margin: 10px 8px;
+}
+
+.clirows {
+    margin-top: -40px;
+}
+#block-block-idiomas ul li {
+    margin-left: 5px;
+}
+
+#block-block-idiomas ul li.active {
+    display: none;
+}
+
+#block-block-idiomas .content {
+    width: auto;
+    min-width: 80px;
+}
+
+.headsup .inn {
+    padding: 0 10px;
+}
+
+#block-block-idiomas {
+    right: 10px;
+}
+.item_titulo.pagetitle {
+    margin-left: 0;
+}
+
+.pagetitle h2.titulo .subtitulo {
+    font-size: 15px;
+}
+
+.page-habitaciones #section-content, .page-promociones #section-content {
+    background-size: 300px auto;
+    background-position: 64% -47px;
+}
+
+.block-lista-habitaciones .item .det {
+    padding: 20px;
+}
+
+.block-lista-habitaciones .item .det .cont1 {
+    max-width: 100%;
+}
+
+.block-lista-habitaciones .item .det .infoprecio .precio {
+    margin-right: 10px;
+    font-size: 22px;
+}
+
+.block-lista-habitaciones .item .det .infoprecio .reserva a {
+    margin-top: 5px;
+}
+
+.block-lista-habitaciones .item .det .infoprecio {
+    font-size: 13px;
+}
+.block-lista-promociones .row .item {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 15px 0;
+}
+.hero .estiloserv .inn2 {max-width: 100%;margin-right: 0;text-align: center;}
+
+.block-ambientes .row .item_galeria .it {
+    width: 48%;
+}
+
+.block-carta .row .item {
+        flex: 0 0 98%;
+    max-width: 98%;
+    margin: 10px 1%;
+}
+
+.block-carta .row {
+    flex-wrap: wrap;
+}
+.bloque_platos .tab button {
+    font-size: 13px;
+    padding: 5px;
+    margin: 2px;
+}
+
+.bloque_platos .tab button .imagencarta img {
+    max-width: 20px;
+}
+
+section.bloque_platos {
+    padding: 35px 0;
+}
+
+.bloque_platos .detallecarta >div {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 10px 0;
+}
+
+span.titulocategoriacarta {
+    font-size: 15px;
+    margin: 10px 0;
+}
+section#arequipainf {
+    font-size: 15px;
+    padding: 40px 0 20px;
+}
+#arequipa2.block-habitaciones .row .item {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.form-block .form-actions .form-submit {
+    min-width: 120px;
+    font-size: 15px;
+}
+p#notification {
+    font-size: 16px;
+    margin: 20px 0;
+}
+}

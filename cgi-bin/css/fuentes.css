@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Museo-500';
+  src: url("fuentes/museo500-regular-webfont.eot");
+  src: url("fuentes/museo500-regular-webfont.eot?#iefix") format("embedded-opentype"), 
+  url("fuentes/museo500-regular-webfont.ttf") format("truetype"), 
+  url("fuentes/museo500-regular-webfont.woff") format("woff"), 
+  url("fuentes/museo500-regular-webfont.svg#museo500") format("svg");
+  font-style: normal;
+  font-weight: normal;
+}

@@ -1,0 +1,362 @@
+@media screen and (max-width: 1300px) {
+    #block-nice-menus-1 .block-inner, #zone-branding-wrapper .region-inner,#region-content .region-inner {
+    max-width: 90%;
+}
+}
+
+@media screen and (max-width: 1200px) {
+
+#block-nice-menus-1 .block-inner ,
+#zone-branding-wrapper .region-inner,
+#region-content .region-inner,
+#region-footer-first .region-inner,
+#region-preface-first .region-inner {
+    max-width: 94%;
+}
+#block-nice-menus-1 ul.nice-menu {
+    padding-left: 160px;
+}
+}
+
+@media screen and (max-width: 1000px) {
+    #zone-branding-wrapper .region-inner {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#block-nice-menus-1 ul.nice-menu {
+    padding-left: 165px;
+}
+
+#block-nice-menus-1 ul.nice-menu li a {
+}
+
+#block-nice-menus-1 ul.nice-menu li {
+    margin: 0 6px;
+    float: none;
+    display: inline-block;
+}
+
+#block-block-3 {
+    margin-bottom: -79px;
+}
+.view-view-page-habitaciones .views-row .views-field-php, .view-view-page-noche-bodas .views-row .views-field-php {
+    width: 65%;
+}
+
+.view-view-page-habitaciones .views-row .views-field-title, .view-view-page-habitaciones .views-row .views-field-body, .view-view-page-noche-bodas .views-row .views-field-title, .view-view-page-noche-bodas .views-row .views-field-body {
+    width: 35%;
+}
+.trip img {
+    height: 85px;
+}
+}
+
+@media screen and (max-width: 800px) {
+    #block-nice-menus-2 {
+    display: block;
+}
+#zone-branding-wrapper {
+    background: rgba(255,255,255,.5);
+}
+#block-nice-menus-1 .block-inner {
+    display: none;
+}
+
+#block-block-3 {
+    margin-bottom: -5px;
+    width: 116px;
+}
+
+div#block-locale-language {
+    position: absolute;
+    right: 10px;
+    top: 56px;
+}
+
+div#block-block-1 {
+    padding-right: 50px;
+}
+
+#region-content .region-inner {
+    padding: 30px 20px;
+}
+
+#block-nice-menus-1 .block-inner, #zone-branding-wrapper .region-inner, #region-content .region-inner, #region-footer-first .region-inner, #region-preface-first .region-inner {
+    max-width: none;
+}
+
+.context-contacto #block-system-main, .context-contact #block-system-main, .context-contacter #block-system-main {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 30px;
+}
+
+#block-block-2 {
+    width: 100%;
+}
+
+#block-block-7 {
+    margin-left: 20px;
+}
+
+#block-block-4 {
+    padding-right: 20px;
+    width: 40%;
+}
+
+#section-footer {
+    background-size: auto 110px;
+    padding-top: 105px;
+}
+#zone-branding-wrapper .region-inner {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.view-view-page-habitaciones .views-row .views-field-title, .view-view-page-habitaciones .views-row .views-field-body, .view-view-page-noche-bodas .views-row .views-field-title, .view-view-page-noche-bodas .views-row .views-field-body {
+    width: 100%;
+}
+
+.view-view-page-habitaciones .views-row .views-field-php, .view-view-page-noche-bodas .views-row .views-field-php {
+    width: 100%;
+}
+
+.view-view-page-habitaciones .views-row .views-field-field-iconos, .view-view-page-noche-bodas .views-row .views-field-field-iconos {
+    width: auto;
+}
+.view-view-page-elhotel .views-row .views-field-body .field-content {
+    padding: 10px 0;
+}
+
+.view-view-page-elhotel .views-row .views-field-body {
+    font-size: 18px;
+    line-height: 24px;
+}
+}
+
+@media screen and (max-width: 650px) {
+    #block-block-6 .content a {
+    width: 80px;
+    padding: 8px 8px 5px;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+#block-block-1 .content img {
+    margin: 0 3px;
+}
+
+div#block-block-1 {
+    padding-right: 42px;
+}
+
+#block-block-2 iframe {
+    height: 400px;
+}
+
+#block-block-7 {
+        padding: 0 5%;
+    width: 90%;
+    text-align: center;
+    margin: 0;
+}
+
+#block-block-4 {
+    padding: 10px 5%;
+    width: 90%;
+    text-align: center;
+    margin: 0;
+}
+
+#block-block-4 .content {
+    display: inline-block;
+    text-align: left;
+}
+#block-block-7 table {
+    display: inline;
+}
+.view-view-page-turismo .views-row .views-field-php {
+    width: 100%;
+}
+
+.view-view-page-turismo .views-row .views-field-title, .view-view-page-turismo .views-row .views-field-body {
+    width: 100%;
+}
+.view-view-page-turismo .views-row .views-field-title .field-content {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+#page {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.view-view-page-turismo .views-row .views-field-body .field-content {
+    padding: 10px;
+}
+.flex-control-nav li {
+    margin: 2px 2px 0;
+}
+
+.flex-control-nav {
+    bottom: 12px;
+    display: none;
+}
+.view-view-page-habitaciones .views-row .views-field-title .field-content, .view-view-page-noche-bodas .views-row .views-field-title .field-content {
+    font-size: 22px;
+    line-height: 26px;
+}
+.view-view-page-habitaciones .views-row .views-field-body .field-content, .view-view-page-noche-bodas .views-row .views-field-body .field-content {
+    font-size: 16px;
+}
+.view-view-iconos-elhotel .views-row .views-field-field-iconos .item-list li img, .view-view-iconos-habitaciones .views-row .views-field-field-iconos .item-list li img {
+    max-height: 50px;
+}
+.view-view-iconos-elhotel .views-row .views-field-field-iconos .item-list li, .view-view-iconos-habitaciones .views-row .views-field-field-iconos .item-list li {
+    margin: 5px;
+}
+.view-view-page-elhotel .views-row .views-field-body {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#block-views-view-iconos-elhotel-block {
+    margin-top: 20px;
+}
+.view-view-page-turismo .views-row {
+    width: 100%;
+    margin: 0 0 20px;
+}
+.page-amor-y-belleza #region-content .region-inner,
+.page-habitaciones #region-content .region-inner{
+    padding: 10px;
+}
+.context-habitaciones #region-content .region-inner, .context-rooms #region-content .region-inner, .context-leschambres #region-content .region-inner {
+    max-width: none;
+}
+.consultas_movil {
+    display: block;
+}
+
+body {
+    padding-bottom: 43px;
+}
+
+.zopim {
+    bottom: 43px !important;
+    right: 0 !important;
+}
+.trip img {
+    height: 62px;
+}
+
+.trip {
+    margin: 0 139px 0 0;
+    clear: right;
+    margin-top: -9px;
+}
+}
+
+@media screen and (max-width: 500px) {
+    #zone-branding-wrapper .region-inner {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#block-block-3 {
+    width: 96px;
+    margin-bottom: -4px;
+}
+
+#block-block-1 .content img {
+    height: 27px !important;
+    margin: 0 2px;
+}
+
+div#block-block-1 {
+    padding: 8px 48px 8px 0;
+}
+
+div#block-locale-language {
+    top: 44px;
+    right: -6px;
+}
+
+#block-block-6 {
+    position: absolute;
+    right: 110px;
+    bottom: 6px;
+}
+
+#block-locale-language ul li a .language-icon {
+    height: 14px;
+}
+
+#block-locale-language ul li a, #block-locale-language ul li .locale-untranslated {
+    font-size: 10px;
+}
+
+#block-block-6 .content a {
+    font-size: 10px;
+    line-height: 13px;
+    width: 58px;
+    height: auto;
+}
+
+.node-webform label {
+    width: 37%;
+}
+
+.form-item .form-textarea {
+    width: 100%;
+}
+
+.node-webform .form-actions, .webform-client-form .form-actions {
+    margin: 0;
+    width: 100%;
+}
+
+.node-webform .form-submit, .page-node-done #block-system-main .links a, .webform-client-form .form-submit, .page-user #region-content .form-submit {
+    display: block;
+    width: 90%;
+    padding: 5px 5%;
+    text-align: center;
+}
+
+#block-block-2 iframe {
+    height: 300px;
+}
+
+#section-footer {
+    background-size: auto 64px;
+    background-position: left top;
+    padding-top: 60px;
+}#block-block-7 {
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.view-view-iconos-elhotel .views-row .views-field-field-iconos .item-list li img, .view-view-iconos-habitaciones .views-row .views-field-field-iconos .item-list li img {
+    max-height: 35px;
+}
+.view-view-iconos-habitaciones .views-row .views-field-field-iconos .item-list li {
+    font-size: 14px;
+    line-height: 15px;
+}
+.view-view-page-elhotel .views-row .views-field-body .field-content td, .node-el-hotel .field-name-body td {
+    width: 100%;
+    padding: 4px 0;
+}
+.trip {
+    clear: none;
+    position: absolute;
+    right: 125px;
+    margin: 0;
+}
+
+.trip img {
+    height: 48px;
+}
+}
